@@ -1,1 +1,1 @@
-# POS Tienda de Ropa
+/ POS Tienda de Ropa
