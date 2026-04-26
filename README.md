@@ -1,1 +1,1 @@
-# POS Teinda de Ropa
+# POS Tienda de Ropa
